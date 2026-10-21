@@ -1,5 +1,5 @@
 
-### Bank Reconciliation & Variance Analysis | Excel, Power Query
+### Bank Reconciliation | Excel, Power Query
 
 Automated bank reconciliation by matching accounting ledger records with bank statements, identifying discrepancies, and documenting the reconciliation process.
 
