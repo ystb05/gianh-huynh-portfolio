@@ -19,5 +19,5 @@ This portfolio showcases my projects in financial modeling, cash flow forecastin
 
 
 ## Contact
-- LinkedIn: 
+- LinkedIn: https://www.linkedin.com/in/giang-huỳnh-91470b344 
 - Email: truonggiang281005@gmail.com
