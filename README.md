@@ -11,7 +11,7 @@ This portfolio showcases my projects in financial modeling, cash flow forecastin
 
 ### Certifications
 - CFA Level I - Passed May 2025
-- ACCA - BT, MA, and FA exemptions
+- ACCA Candidate - BT, MA, and FA exemptions
 - Microsoft Office Specialist (MOS) Associate
 - SQL Certificate of Completion
 - IELTS 6.5
