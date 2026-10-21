@@ -4,10 +4,10 @@ I'm a Finance student at Foreign Trade University, Ho Chi Minh City, interested 
 This portfolio showcases my projects in financial modeling, cash flow forecasting, variance analysis, bank reconciliation, and equity research, using tools such as Excel, Power Query, and SQL.
 
 ### Finance Projects
-1. Cash Flow Management:** 13-Week Cash Flow Forecast
-2. Financial Analysis:** Ingredient Cost Variance Analysis
-3. Case Study:** SSI  analysis
-4. Equity Research:** VietJet investment
+1. Cash Flow Management: 13-Week Cash Flow Forecast
+2. Financial Analysis: Ingredient Cost Variance Analysis
+3. Case Study: SSI  analysis
+4. Equity Research: VietJet investment
 
 ### Certifications
 - CFA Level I - Passed May 2025
