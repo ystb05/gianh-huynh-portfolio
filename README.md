@@ -8,8 +8,7 @@ This portfolio showcases my projects in financial modeling, cash flow forecastin
 2. [Bank Reconciliation](./Bank%20Reconciliation.md)
 3. [Cash Flow Management: 13-Week Cash Flow Forecast](./Cash%20Flow%20Management.xlsx)
 4. [Career Fair 2026: Case Study of SSI](./Career%20Fair%20Case%20Study%20of%20SSI.pdf)
-5. [Equity Research: VietJet Investment](./Equity%20Research%20VietJet%20Investment.xlsx)
-6. [QUADALPHA Semi-Final Round — IRC 2026](./QUADALPHA_Semi-Final-Round_IRC-2026.pdf)
+5. **Equity Research: VietJet Investment** ([PDF](./QUADALPHA_Semi-Final-Round_IRC-2026.pdf) | [Excel](./Equity%20Research%20VietJet%20Investment.xlsx))
    
 ### Certifications
 - CFA Level I - Passed May 2025
