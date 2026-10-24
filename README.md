@@ -1,7 +1,7 @@
 # Hi, I'm Giang 
 I'm a Finance student at Foreign Trade University, Ho Chi Minh City, interested in financial analysis, corporate finance, and data-driven decision-making.
 
-This portfolio showcases my projects in financial modeling, cash flow forecasting, variance analysis, bank reconciliation, and equity research, using tools such as Excel, Power Query, and SQL.
+This portfolio showcases my projects in financial modeling, cash flow forecasting, variance analysis, bank reconciliation, and equity research, using tools such as Excel and Power Query.
 
 ## Finance Projects
 1. [Ingredient Cost Variance Analysis](./Ingredient%20Cost%20Variance%20Analysis.xlsx)
