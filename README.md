@@ -10,7 +10,7 @@ This portfolio showcases my projects in financial modeling, cash flow forecastin
 4. [Career Fair 2026: Case Study of SSI](./Career%20Fair%20Case%20Study%20of%20SSI.pdf)
 5. Equity Research: VietJet Investment, including [PDF](./QUADALPHA_Semi-Final-Round_IRC-2026%20.pdf) & [Excel](./Equity%20Research%20VietJet%20Investment.xlsx)
    
-### Certifications
+## Certifications
 - CFA Level I - Passed May 2025
 - ACCA Candidate - BT, MA, and FA exemptions
 - Microsoft Office Specialist (MOS) Associate
