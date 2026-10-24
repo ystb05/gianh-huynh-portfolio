@@ -5,10 +5,10 @@ This portfolio showcases my projects in financial modeling, cash flow forecastin
 
 ### Finance Projects
 1.Ingredient Cost Variance Analysis
-2. Bank reconciliation
-3. Cash Flow Management: 13-Week Cash Flow Forecast
-4. Career Fair 2026: Case Study of SSI  
-5. Equity Research: VietJet investment, including (1) PDF and (2) Excel file
+2.Bank reconciliation
+3.Cash Flow Management: 13-Week Cash Flow Forecast
+4.Career Fair 2026: Case Study of SSI  
+5.Equity Research: VietJet investment, including (1) PDF and (2) Excel file
 
 ### Certifications
 - CFA Level I - Passed May 2025
