@@ -3,12 +3,13 @@ I'm a Finance student at Foreign Trade University, Ho Chi Minh City, interested 
 
 This portfolio showcases my projects in financial modeling, cash flow forecasting, variance analysis, bank reconciliation, and equity research, using tools such as Excel, Power Query, and SQL.
 
-### Finance Projects
-1. Ingredient Cost Variance Analysis
-2. Bank Reconciliation
-3. Cash Flow Management: 13-Week Cash Flow Forecast
-4. Career Fair 2026: Case Study of SSI
-5. Equity Research: VietJet Investment ([PDF](link-to-pdf) | [Excel](link-to-excel))
+## Finance Projects
+1. [Ingredient Cost Variance Analysis](./Ingredient%20Cost%20Variance%20Analysis.xlsx)
+2. [Bank Reconciliation](./Bank%20Reconciliation.md)
+3. [Cash Flow Management: 13-Week Cash Flow Forecast](./Cash%20Flow%20Management.xlsx)
+4. [Career Fair 2026: Case Study of SSI](./Career%20Fair%20Case%20Study%20of%20SSI.pdf)
+5. [Equity Research: VietJet Investment](./Equity%20Research%20VietJet%20Investment.xlsx)
+6. [QUADALPHA Semi-Final Round — IRC 2026](./QUADALPHA_Semi-Final-Round_IRC-2026.pdf)
    
 ### Certifications
 - CFA Level I - Passed May 2025
